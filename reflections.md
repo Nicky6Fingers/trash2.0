@@ -3,8 +3,11 @@
 ## What did i learn?
 
 I learned a few things during this lesson
+
 -general use information about the terminal
+
 -logging into GitHub through the terminal
+
 -pulling out a file and edit it in Code and then "push" it out back to github
 
 ## What is Terminal / Why Care?  
